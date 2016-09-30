@@ -1,0 +1,12 @@
+Name            Emp No     Grade  Hours      Pay
+================================================
+Hill Joe           11        A    12.50   156.25
+Blacke Tom         22        C    40.00   390.00
+White Bill         34        A    47.50   593.75
+Greene Simon       46        M    35.00   640.50
+Miller Harry       57        A    27.50   343.75
+Jones Jim          68        C    50.75   494.81
+
+Total Pay:       2619.06 
+Average Pay:      436.51 
+Highest pay:       640.5 paid to Greene Simon
